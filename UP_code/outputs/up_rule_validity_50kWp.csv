@@ -1,0 +1,43 @@
+variant,exp_thb,p_rule,p_sim,dp_kwp,npv_forgone
+"PEA TOU with demand charge, base",0.0,1300.0,1300.0,0.0,0.0
+"PEA TOU with demand charge, base",0.1,1300.0,1350.0,-50.0,240.1637349963421
+"PEA TOU with demand charge, base",0.2,1300.0,1350.0,-50.0,673.749272275134
+"PEA TOU with demand charge, base",0.3,1350.0,1400.0,-50.0,372.42850788566284
+"PEA TOU with demand charge, base",0.4,1400.0,1450.0,-50.0,171.80826173257083
+"PEA TOU with demand charge, base",0.5,1400.0,1450.0,-50.0,648.8734085033648
+"PEA TOU with demand charge, base",0.6,1450.0,1500.0,-50.0,493.89116122736596
+"PEA TOU with demand charge, base",0.7,1500.0,1550.0,-50.0,358.42829581024125
+"PEA TOU with demand charge, base",0.8,1500.0,1600.0,-100.0,1123.204919548938
+"PEA TOU with demand charge, base",0.9,1550.0,1650.0,-100.0,978.1143655739725
+"PEA TOU with demand charge, base",1.0,1600.0,1700.0,-100.0,870.6256058278959
+"PEA TOU with demand charge, base",1.1,1650.0,1750.0,-100.0,859.6077659970615
+"PEA TOU with demand charge, base",1.2,1650.0,1800.0,-150.0,2269.7702968118247
+"PEA TOU with demand charge, base",1.3,1750.0,1850.0,-100.0,1048.3555795708671
+"PEA TOU with demand charge, base",1.4,1800.0,1900.0,-100.0,1131.30982245435
+"PEA TOU with demand charge, base",1.5,1850.0,1950.0,-100.0,1354.6733859891538
+"PEA TOU with demand charge, base",1.6,1900.0,2050.0,-150.0,2058.7229339994956
+"PEA TOU with demand charge, base",1.7,2000.0,2150.0,-150.0,1804.255848864559
+"PEA TOU with demand charge, base",1.8,2100.0,2250.0,-150.0,1832.7069039654452
+"PEA TOU with demand charge, base",1.9,2200.0,2400.0,-200.0,2385.0272423401475
+"PEA TOU with demand charge, base",2.0,2350.0,2550.0,-200.0,2065.398348248098
+"PEA TOU with demand charge, base",2.1,2450.0,2700.0,-250.0,3462.162021712167
+"PEA TOU with demand charge, base",2.2,2600.0,2900.0,-300.0,4047.876079152571
+"PEA TOU with demand charge, base",2.3,2800.0,3100.0,-300.0,4212.420120282099
+"PEA TOU with demand charge, base",2.4,3000.0,3300.0,-300.0,4979.194254610222
+"PEA TOU with demand charge, base",2.5,3250.0,3600.0,-350.0,4718.231774002779
+"TOU, no demand charge",0.0,1050.0,1150.0,-100.0,987.7119508861797
+"TOU, no demand charge",1.0,1300.0,1400.0,-100.0,1464.4418111332925
+"TOU, no demand charge",2.0,1900.0,2100.0,-200.0,2414.395273893373
+"TOU, no demand charge",2.5,2750.0,3000.0,-250.0,2320.3274974990636
+"TOU, demand charge ×2",0.0,1450.0,1500.0,-50.0,629.4768199259415
+"TOU, demand charge ×2",1.0,1800.0,1900.0,-100.0,1732.9573780156206
+"TOU, demand charge ×2",2.0,2650.0,3000.0,-350.0,6286.449675692944
+"TOU, demand charge ×2",2.5,3650.0,4400.0,-750.0,11903.341108824592
+Flat energy price with demand charge,0.0,1150.0,1150.0,0.0,0.0
+Flat energy price with demand charge,1.0,1400.0,1400.0,0.0,0.0
+Flat energy price with demand charge,2.0,2050.0,2100.0,-50.0,173.7659925869666
+Flat energy price with demand charge,2.5,2900.0,3200.0,-300.0,3566.27622625418
+TOU spread ×1.5 with demand charge,0.0,1350.0,1400.0,-50.0,569.4929337452631
+TOU spread ×1.5 with demand charge,1.0,1650.0,1800.0,-150.0,3030.145505788969
+TOU spread ×1.5 with demand charge,2.0,2450.0,2700.0,-250.0,4456.153150946135
+TOU spread ×1.5 with demand charge,2.5,3400.0,3800.0,-400.0,5504.728034432977
